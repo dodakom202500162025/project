@@ -1,0 +1,9 @@
+Pages\LoginPage\Login.class
+TestData\Configurations.class
+StepDefinition\S02Login.class
+StepDefinition\Hooks.class
+Pages\SignupPage\Signup.class
+StepDefinition\S01Signup.class
+Runner\TestRunner.class
+StepDefinition\S03AddProducts.class
+Pages\AddPoducts\AddProducts.class
